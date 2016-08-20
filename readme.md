@@ -1,8 +1,12 @@
-Broccoli-eslint
+Broccoli-eslint-alt
 ===
 
 Plugin for broccoli to use eslint [http://eslint.org/].
 You need a `.eslintrc.json` file to use this, and also `babel-eslint` installed on your project.
+
+(I couldn't figure out how to use https://www.npmjs.com/package/broccoli-lint-eslint)
+
+`npm install broccoli-eslint-alt`
 
 tldr
 ===
